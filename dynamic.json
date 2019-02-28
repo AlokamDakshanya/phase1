@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"Akhil.jpg",
+		"name":"Dakshanya",
+		"roll":"1254",
+		"place":"Guntur",
+		"des":"student"
+	},
+	"career":{
+		"info":"i seek a position where i can explore my talents for the benefits of the organisation "
+	},
+	"education":[
+		{
+		   "sno":"1",
+           "degree":"b.tech",
+           "institute":"vignan",
+           "per":"80%",
+           "yop":"2021"
+		},
+		{
+          "sno":"2",
+           "degree":"intermediate",
+           "institute":"NRI",
+           "per":"75%",
+           "yop":"2017"  
+		},
+		{
+		   "sno":"3",
+           "degree":"ssc",
+           "institute":"LIVE SCHOOL",
+           "per":"88%",
+           "yop":"2015"  	
+		}
+	],
+	"languages":[
+		{
+			"info":"english"
+		},
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		}
+	]
+}
